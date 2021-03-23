@@ -10,4 +10,5 @@ body {
 h1 {
   font-family:"Times new roman", times,serif;
   text-align: center;
+  background-color: lightgrey;
 }
